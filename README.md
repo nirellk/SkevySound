@@ -1,5 +1,5 @@
 ## 🎼 SkevySound
-Este é o segundo projeto realizado no meu curso de Ciência da Computação, um site de música inspirado no SoundCloud. O projeto foi feito utilizando HTML e CSS, e serve como uma plataforma básica para exibição de músicas, playlists e outros conteúdos relacionados.
+Este é o primeiro projeto realizado no meu curso de Ciência da Computação, no primeiro semestre (2023), um site de música inspirado no SoundCloud. O projeto foi feito utilizando HTML e CSS, e serve como uma plataforma básica para exibição de músicas, playlists e outros conteúdos relacionados.
 
 Embora o projeto seja simples, ele foi uma ótima oportunidade de aprendizado e marcou meu primeiro contato prático com essas linguagens de programação.
 
